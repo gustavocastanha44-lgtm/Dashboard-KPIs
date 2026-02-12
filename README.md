@@ -33,5 +33,5 @@ Antes do dashboard, os indicadores ambientais eram monitorados através de plani
 ---
 
 ## 🖼 Imagens
-- 1
+- [Dashboard Geral](visao_geral_dash)
 - 2
