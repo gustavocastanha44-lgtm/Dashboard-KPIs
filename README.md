@@ -33,4 +33,5 @@ Antes do dashboard, os indicadores ambientais eram monitorados através de plani
 ---
 
 ## 🖼 Imagens
-
+- [Visão Geral](https://github.com/gustavocastanha44-lgtm/Dashboard-KPIs/issues/1)
+- [Visão Trimestre por Área](https://github.com/gustavocastanha44-lgtm/Dashboard-KPIs/issues/1#issuecomment-3891887466)
