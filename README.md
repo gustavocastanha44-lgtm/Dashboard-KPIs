@@ -33,5 +33,5 @@ Antes do dashboard, os indicadores ambientais eram monitorados através de plani
 ---
 
 ## 🖼 Imagens
-- [image_alt]([visao_geral_dash](https://github.com/gustavocastanha44-lgtm/Dashboard-KPIs/blob/c4ca8b82f8dad7b083eda1045345f337f7721414/visao_geral_dash.png))
+- [visao_geral_dash](https://github.com/gustavocastanha44-lgtm/Dashboard-KPIs/blob/c4ca8b82f8dad7b083eda1045345f337f7721414/visao_geral_dash.png)
 - 2
