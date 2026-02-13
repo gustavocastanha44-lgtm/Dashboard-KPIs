@@ -18,12 +18,6 @@ Antes do dashboard, os indicadores ambientais eram monitorados através de plani
 
 ---
 
-## 📂 Estrutura do Projeto
-- `Dados/` – arquivos brutos recebidos pelo time de PCP e Galpão de Resíduos e consolidação em uma base única no excel
-- `Dashboard/` – 'kpis_indicadores.pbix'
-- `Scripts/` – scripts Python para envio automático dos dados 
----
-
 ## 📈 Funcionalidades
 - Visualização de KPIs das **7 áreas** da empresa que possuem indicadores ambientais 
 - Filtros interativos por período, área e tipo de indicador  
